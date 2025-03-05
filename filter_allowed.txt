@@ -1,0 +1,8 @@
+# Bankinter
+@@||urbanairship.com^$important
+
+# Wizink
+@@||wzk.device-api.indigitall.com^$important
+@@||wzk.inbox-api.indigitall.com^$important
+
+@@||tags.tiqcdn.com^$important
