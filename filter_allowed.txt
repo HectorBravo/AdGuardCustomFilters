@@ -6,3 +6,6 @@
 @@||wzk.inbox-api.indigitall.com^$important
 
 @@||tags.tiqcdn.com^$important
+
+# HSBC
+@@||mmtro.com^$important
