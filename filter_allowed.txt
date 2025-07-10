@@ -7,5 +7,11 @@
 
 @@||tags.tiqcdn.com^$important
 
+# Tiktok
+# @@||roovza-launches.appsflyersdk.com^$important
+
 # HSBC
 @@||mmtro.com^$important
+
+# IG
+@@||cdn.optimizely.com^$important
