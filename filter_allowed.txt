@@ -15,3 +15,7 @@
 
 # IG
 @@||cdn.optimizely.com^$important
+
+# Chollometro
+@@||www.dpbolvw.net^$important
+@@||www.emjcd.com^$important
