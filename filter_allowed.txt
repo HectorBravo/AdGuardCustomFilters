@@ -19,3 +19,7 @@
 # Chollometro
 @@||www.dpbolvw.net^$important
 @@||www.emjcd.com^$important
+
+
+# IKEA UAE
+@@||data.cloud.email.ikea.ae^$important
