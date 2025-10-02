@@ -23,3 +23,6 @@
 
 # IKEA UAE
 @@||data.cloud.email.ikea.ae^$important
+
+# Discord
+@@||click.discord.com^$important
