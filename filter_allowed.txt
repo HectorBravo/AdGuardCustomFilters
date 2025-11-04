@@ -26,3 +26,6 @@
 
 # Discord
 @@||click.discord.com^$important
+
+# crackingpatching.com
+@@||crackingpatching.com^$important
