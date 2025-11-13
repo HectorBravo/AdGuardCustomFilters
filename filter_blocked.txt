@@ -7,3 +7,22 @@
 /^(.*.)?nintendo-europe.com/
 /^(.*.)?nintendoswitch.(cn|com|com.cn)/
 /^(.*.)?wii.com/
+
+# JDDecrypter
+/^(.*.)?de-ads.net/
+
+# scansoft
+/^(.*.)?support.scansoft.com/
+/^(.*.)?activation.scansoft.com/
+
+# old hosts
+/^(.*.)?redwebunity.com/
+/^(.*.)?player.goviral-content.com/
+/^(.*.)?uppix.net/
+/^(.*.)?img.pctestrenos.com/
+/^(.*.)?acdid.acdsystems.com/
+/^(.*.)?cnhv.co/
+/^(.*.)?edatasales.com/
+/^(.*.)?vpnfortorrents.me/
+/^(.*.)?activation.easeus.com/
+
