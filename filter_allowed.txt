@@ -29,3 +29,6 @@
 
 # crackingpatching.com
 @@||crackingpatching.com^$important
+
+# deliveroo
+@@||eclicks.deliveroo.com^$important
