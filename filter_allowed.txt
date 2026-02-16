@@ -32,3 +32,6 @@
 
 # deliveroo
 @@||eclicks.deliveroo.com^$important
+
+# Twitter
+@@||t.co^$important
