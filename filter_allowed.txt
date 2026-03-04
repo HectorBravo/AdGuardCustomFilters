@@ -35,3 +35,6 @@
 
 # Twitter
 @@||t.co^$important
+
+# Xe
+@@||api.iterable.com^$important
