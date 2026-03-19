@@ -38,3 +38,6 @@
 
 # Xe
 @@||api.iterable.com^$important
+
+#binance
+@@||zl8y5fss.r.eu-west-1.awstrack.me^$important
