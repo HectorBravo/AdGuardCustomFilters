@@ -41,3 +41,6 @@
 
 #binance
 @@||zl8y5fss.r.eu-west-1.awstrack.me^$important
+
+#Filecrypt.cc captchas
+@@||usrpubtrk.com^$important
